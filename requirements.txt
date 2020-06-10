@@ -8,3 +8,4 @@ WTForms==2.3.01
 bcrypt==3.1.7
 email-validator==1.1.1
 Flask-Bcrypt==0.7.1
+Flask-Login==0.5.0
